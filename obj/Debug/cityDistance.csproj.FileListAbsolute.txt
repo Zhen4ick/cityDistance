@@ -1,0 +1,10 @@
+C:\Users\mr_zh\source\repos\cityDistance\cityDistance\bin\Debug\cityDistance.exe.config
+C:\Users\mr_zh\source\repos\cityDistance\cityDistance\bin\Debug\cityDistance.exe
+C:\Users\mr_zh\source\repos\cityDistance\cityDistance\bin\Debug\cityDistance.pdb
+C:\Users\mr_zh\source\repos\cityDistance\cityDistance\obj\Debug\cityDistance.csprojAssemblyReference.cache
+C:\Users\mr_zh\source\repos\cityDistance\cityDistance\obj\Debug\cityDistance.csproj.CoreCompileInputs.cache
+C:\Users\mr_zh\source\repos\cityDistance\cityDistance\obj\Debug\cityDistance.exe
+C:\Users\mr_zh\source\repos\cityDistance\cityDistance\obj\Debug\cityDistance.pdb
+C:\Users\mr_zh\source\repos\cityDistance\cityDistance\bin\Debug\Figgle.dll
+C:\Users\mr_zh\source\repos\cityDistance\cityDistance\bin\Debug\Figgle.xml
+C:\Users\mr_zh\source\repos\cityDistance\cityDistance\obj\Debug\cityDistance.csproj.CopyComplete
